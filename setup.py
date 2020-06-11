@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
       name='daigle_dist',
-      version="0.1.3",
+      version="0.1.3.1",
       author="Christopher Daigle",
       author_email="pcjdaigle@gmail.com",
       description="Gaussian and Binomial Distributions",

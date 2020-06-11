@@ -4,7 +4,7 @@ This package allows a user to perform some simple analysis of basic elements of 
 This package is primarily meant as a test case/POC for loading packages to PyPi, but may also be useful for some other people.
 
 To use this package:
-1. `pip install daigle-daist`
+1. `pip install daigle-dist`
 2. run Python
 3. enter `from distributions import Gaussian, Binomial`<br>
 3a. `Gaussian(mean, stdev)`<br>
