@@ -162,5 +162,4 @@ class Binomial(Distribution):
         Returns:
             string: characteristics of the Gaussian
         """
-        representation = "mean {}, standard deviation {}, p {}, n {}".\
-            format(self.mean, self.stdev, self.p, self.n)
+        representation = f"mean {self.mean}, standard deviation {self.stdev}, p {self.p}, n {self.n}"
